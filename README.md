@@ -7,5 +7,5 @@ Example JSON:
 {"test3":{"PortAPP":"8080","PortAdmin":"4848"},"test34":{"PortAPP":"8080","PortAdmin":"4848"},"domain1":{"PortAPP":"8080","PortAdmin":"4848"},"test1":{"PortAPP":"8080","PortAdmin":"4848"},"info":{"PortAPP":"2526","PortAdmin":"2525"}}
 
 For correct working of application you have to create domain and deploy webinfo.war on your Glassfish web-server.
-It's necessarily to install variable into profile. 
+Also It's necessarily to install variable into profile. 
 Example: GLASSFISH_HOME=/home/vital/glassfish5
